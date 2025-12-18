@@ -10,7 +10,7 @@
   <p align="left">
     🎓 <b>Estudando:</b> JavaScript Moderno, DOM e Lógica de Programação.<br>
     🚀 <b>Foco:</b> Transformar layouts em aplicações funcionais e responsivas.<br>
-    💡 <b>Curiosidade:</b> Gosto de entender como as coisas funcionam "por baixo do capô" no navegador.
+    💡 <b>Curiosidade:</b> Gosto de entender como as coisas funcionam.
   </p>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>E aí! Eu sou o Samuel Pires 👋</h2>
+  <h2>Olá! Eu sou o Samuel Pires 👋</h2>
   <p>Dev Front-End focado em criar experiências visuais e lógica funcional.</p>
 </div>
 
@@ -8,7 +8,8 @@
 <div align="center">
   <br>
   <p align="left">
-    🎓 <b>Estudando:</b> JavaScript Moderno, DOM e Lógica de Programação.<br>
+    🎓 <b>Graduação:</b> Sistemas de Informação (Em andamento)<br>
+    📚 <b>Estudando:</b> JavaScript Moderno, DOM e Lógica de Programação.<br>
     🚀 <b>Foco:</b> Transformar layouts em aplicações funcionais e responsivas.<br>
     💡 <b>Curiosidade:</b> Gosto de entender como as coisas funcionam.
   </p>
@@ -18,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">🛠️ Minhas Ferramentas</h3>
+<h3 align="center"> Minhas Ferramentas</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

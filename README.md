@@ -22,9 +22,37 @@
 <h3 align="center">🛠️ Habilidades Técnicas e Ferramentas</h3>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows&theme=dark" />
-  </a>
+  <table border="1">
+    <tr>
+      <th align="center" width="200">Categoria</th>
+      <th align="center" width="600">Tecnologias</th>
+    </tr>
+    <tr>
+      <td align="center"><b>Linguagens / Web</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Ferramentas / IDEs</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Sistema Operacional</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Estudando Atualmente</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Lógica_de_Programação-000?style=for-the-badge&logo=code&logoColor=white">
+        <img src="https://img.shields.io/badge/DOM_Manipulation-000?style=for-the-badge&logo=javascript&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

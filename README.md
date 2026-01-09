@@ -50,8 +50,8 @@
     <tr>
       <td align="center"><b>Estudando Atualmente</b></td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Lógica_de_Programação-000?style=for-the-badge&logo=code&logoColor=white">
-        <img src="https://img.shields.io/badge/DOM_Manipulation-000?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Back--End-black?style=for-the-badge&logo=server&logoColor=white">
       </td>
     </tr>
   </table>
@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center"> Estatísticas do GitHub</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

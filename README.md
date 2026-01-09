@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Samuel Pires</h1>
   <h3>Desenvolvedor Front-End | Graduando em Sistemas de Informação (em andamento)</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=SamuelzinPires&label=Profile%20Views&color=0e75b6&style=flat" alt="samuelzinpires" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -63,8 +65,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=dracula&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelzinPires&layout=compact&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelzinPires&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs" />
   </a>
 </div>
 

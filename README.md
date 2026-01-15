@@ -65,11 +65,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h3 align="center"> Minhas Estatísticas</h3>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelzinPires&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
@@ -81,10 +84,6 @@
   <a href="https://www.linkedin.com/in/samuel-pires-de-miranda-767255349/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
-  <a href="mailto:seu_email_aqui@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

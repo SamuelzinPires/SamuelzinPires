@@ -61,29 +61,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h3 align="center"> Minhas Estatísticas</h3>
+<h3 align="center"> Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelzinPires&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelzinPires&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs" />
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <h3> Conecte-se comigo</h3>
-  
   <a href="https://www.linkedin.com/in/samuel-pires-de-miranda-767255349/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

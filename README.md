@@ -10,7 +10,7 @@
 <div align="center">
   <br>
   <p>
-    🎓 Minha jornada começou no <b>Front-End</b>, mas hoje meu foco total é a transição para <b>Engenharia de Dados</b>.
+     Minha jornada começou no <b>Front-End</b>, criando interfaces web, mas hoje meu foco total é a transição para <b>Engenharia de Dados</b>.
   </p>
   <p>
     Estou unindo meu conhecimento de código (Python/Web) com infraestrutura (Linux/SQL) para construir pipelines de dados robustos e seguros.
@@ -21,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">🛠️ Habilidades Técnicas e Ferramentas</h3>
+<h3 align="center"> Habilidades Técnicas e Ferramentas</h3>
 
 <div align="center">
   <table border="1">
@@ -30,21 +30,29 @@
       <th align="center" width="600">Tecnologias</th>
     </tr>
     <tr>
-      <td align="center"><b>Engenharia de Dados & Infra</b></td>
+      <td align="center"><b>Engenharia de Dados</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,pandas,sqlite,linux,bash&theme=dark" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Infra, Tools & Security</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/CyberSecurity-Auth-black?style=for-the-badge&logo=auth0&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>Web Dev (Background)</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Ferramentas & IDEs</b></td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,windows&theme=dark" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </td>
     </tr>
   </table>
@@ -54,7 +62,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">📈 Estatísticas</h3>
+<h3 align="center"> Estatísticas</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

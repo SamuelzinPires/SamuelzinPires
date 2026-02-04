@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Samuel Pires</h1>
-  <h3>Data Engineering Student | Graduando em Sistemas de Informação</h3>
+  <h3>Data Engineering Student | Graduando em Sistemas de Informação (em andamento)</h3>
   
   <img src="https://komarev.com/ghpvc/?username=SamuelzinPires&label=Profile%20Views&color=0e75b6&style=flat" alt="samuelzinpires" />
 </div>

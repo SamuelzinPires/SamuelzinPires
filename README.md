@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Samuel Pires</h1>
-  <h3>Desenvolvedor Front-End | Graduando em Sistemas de Informação (em andamento)</h3>
+  <h3>Data Engineering Student | Graduando em Sistemas de Informação</h3>
   
   <img src="https://komarev.com/ghpvc/?username=SamuelzinPires&label=Profile%20Views&color=0e75b6&style=flat" alt="samuelzinpires" />
 </div>
@@ -10,10 +10,13 @@
 <div align="center">
   <br>
   <p>
-    Com uma sólida formação acadêmica em andamento em <b>Sistemas de Informação</b>, sou um desenvolvedor focado em <b>Front-End</b> e na criação de interfaces web intuitivas e performáticas.
+    🎓 Graduando em <b>Sistemas de Informação</b>, atualmente em transição de carreira para a área de <b>Engenharia de Dados</b>.
   </p>
   <p>
-    Busca constante por dominar a base da web (HTML, CSS, JavaScript) e aplicá-la em projetos reais. Atualmente expandindo conhecimentos para o <b>Back-End com Python</b> e automação de scripts.
+    Meu foco é construir soluções robustas de <b>Backend</b> e pipelines de dados eficientes. Tenho migrado do desenvolvimento web para a infraestrutura de dados, dominando a extração, transformação e carga (ETL) de informações.
+  </p>
+  <p>
+     <b>Foco Atual:</b> Python, SQL, APIs REST, Segurança de Dados e Linux.
   </p>
 </div>
 
@@ -21,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center"> Habilidades Técnicas e Ferramentas</h3>
+<h3 align="center"> Stack Tecnológico & Ferramentas</h3>
 
 <div align="center">
   <table border="1">
@@ -30,31 +33,43 @@
       <th align="center" width="600">Tecnologias</th>
     </tr>
     <tr>
-      <td align="center"><b>Linguagens / Web</b></td>
+      <td align="center"><b>Linguagens & Scripting</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white&top=10" height="40" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Ferramentas / IDEs</b></td>
+      <td align="center"><b>Engenharia de Dados</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" height="40" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="40" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Sistema Operacional</b></td>
+      <td align="center"><b>Infra & Ferramentas</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,windows&theme=dark" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Estudando Atualmente</b></td>
+      <td align="center"><b>Segurança</b></td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Back--End-black?style=for-the-badge&logo=server&logoColor=white">
+        <img src="https://img.shields.io/badge/CyberSecurity-Auth-black?style=flat-square&logo=auth0&logoColor=white" height="40" />
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<h3 align="center"> Projetos em Destaque</h3>
+
+<div align="center">
+  <a href="https://github.com/SamuelzinPires/Data-engineering-studies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelzinPires&repo=Data-engineering-studies&theme=dracula&hide_border=true" />
+  </a>
 </div>
 
 <br>
@@ -74,8 +89,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-pires-de-miranda-767255349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos_Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

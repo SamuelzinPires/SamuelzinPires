@@ -22,24 +22,24 @@
     <img alt="LinkedIn de Samuel Pires" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img alt="Localizacao: Goiania, Brasil" src="https://img.shields.io/badge/Goiania-Brasil-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img alt="Status: aberto a oportunidades" src="https://img.shields.io/badge/Status-Aberto%20a%20Vaga%20Jr.-238636?style=for-the-badge"/>
+  <img alt="Status: aberto a oportunidades" src="https://img.shields.io/badge/Status-Aberto%20a%20Vagas.-238636?style=for-the-badge"/>
   <img alt="Visualizacoes do perfil de SamuelzinPires" src="https://komarev.com/ghpvc/?username=SamuelzinPires&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
-Em transição de **Suporte Técnico/Logística** para **Engenharia de Dados**, unindo experiência real de operação com Python, SQL e Cloud pra construir pipelines de dados robustos — do zero até produção. Baseado em **Goiânia/GO**, no cruzamento entre **Dados e Agronegócio**, um nicho regional de alta demanda.
+Em transição para **Engenharia de Dados**, unindo experiência real de operação com Python, SQL e Cloud pra construir pipelines de dados robustos — do zero até produção.
 
-Cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** (UniALFA) com foco total em dados.
+Cursando **Tecnólogo em Sistema da informação** (UniALFA) com foco total em dados.
 
 ```python
 samuel = {
     "foco_atual":   "Engenharia de Dados",
     "stack":        ["Python", "SQL", "FastAPI", "SQLAlchemy", "Pandas", "Docker"],
     "cloud":        ["AWS (S3, Lambda, IAM)", "Azure (DP-900 em preparação)"],
-    "graduacao":    "Tecnologo em ADS - UniALFA (em andamento)",
+    "graduacao":    "Tecnólogo em Sistema da informação - UniALFA (em andamento)",
     "localizacao":  "Goiania, Brasil",
     "aberto_para":  ["Vaga Jr. Engenheiro de Dados", "Remoto / Hibrido"]
 }
@@ -84,12 +84,12 @@ samuel = {
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 CRUD API Data Application</h3>
+      <h3> CRUD API Data Application</h3>
       <p>API RESTful completa — FastAPI + PostgreSQL + SQLAlchemy, containerizada com Docker. CRUD completo, paginação, validação com Pydantic e frontend em Streamlit. Uso real: rastreia minhas próprias candidaturas a vaga.</p>
       <a href="https://github.com/SamuelzinPires/crud-api-data-app">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -99,7 +99,7 @@ samuel = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 SQL Advanced Analytics — Northwind</h3>
+      <h3> SQL Advanced Analytics — Northwind</h3>
       <p>Analytics avançado sobre o banco Northwind: 7 VIEWs de negócio construídas com CTEs e Window Functions (RANK, LAG, SUM OVER PARTITION BY), rodando em PostgreSQL via Docker.</p>
       <a href="https://github.com/SamuelzinPires/northwind-sql-analytics">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -110,7 +110,7 @@ samuel = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 Pipeline ELT AgroTech AWS</h3>
+      <h3> Pipeline ELT AgroTech AWS</h3>
       <p>Pipeline ELT serverless na AWS para dados do agronegócio brasileiro — arquitetura Medalhão (bronze/silver) em S3 com Parquet, processamento via Lambda + boto3.</p>
       <a href="https://github.com/SamuelzinPires/Projeto-agro-elt-pipeline-aws">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -120,7 +120,7 @@ samuel = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏗️ Data Project Foundations</h3>
+      <h3> Data Project Foundations</h3>
       <p>Base profissional para projetos de dados: pipeline ETL com Poetry para dependências, testes automatizados com pytest e esteira de CI/CD via GitHub Actions.</p>
       <a href="https://github.com/SamuelzinPires/data-project-foundations">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -141,7 +141,7 @@ samuel = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💰 FinOps Pessoal</h3>
+      <h3> FinOps Pessoal</h3>
       <p>Sistema de ETL para finanças pessoais com dashboard interativo em Streamlit e persistência em PostgreSQL via SQLAlchemy — meu primeiro projeto de dados ponta a ponta.</p>
       <a href="https://github.com/SamuelzinPires/finops-data-engineering">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -158,17 +158,6 @@ samuel = {
 
 <p align="center">
   <img
-    alt="Estatisticas do GitHub de Samuel Pires — commits, PRs e nivel de engajamento"
-    src="https://github-readme-stats.vercel.app/api?username=SamuelzinPires&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=30363d"
-    height="165"/>
-  <img
-    alt="Linguagens mais usadas por Samuel Pires — Python em destaque"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelzinPires&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
-    height="165"/>
-</p>
-
-<p align="center">
-  <img
     alt="Sequencia de contribuicoes de Samuel Pires ao longo do tempo"
     src="https://streak-stats.demolab.com?user=SamuelzinPires&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff"/>
 </p>
@@ -179,11 +168,11 @@ samuel = {
 
 ---
 
-## 🔭 Em construção agora
+##  Em construção agora
 
-- ☁️ Certificação **Microsoft Azure DP-900** — módulo 2 aprovado, módulos 3 e 4 em andamento, exame previsto pra agosto/2026
-- 🧪 Próximo projeto: **Data Quality Engineering** (DuckDB + Pandera) — agosto/2026
-- 🎯 Buscando ativamente vaga de **Engenheiro de Dados Júnior** — remoto ou híbrido
+-  Certificação **Microsoft Azure DP-900** — módulo 2 aprovado, módulos 3 e 4 em andamento, exame previsto pra agosto/2026
+-  Próximo projeto: **Data Quality Engineering** (DuckDB + Pandera) — agosto/2026
+-  Buscando ativamente vaga de **Engenheiro de Dados Júnior** — remoto ou híbrido
 
 ---
 

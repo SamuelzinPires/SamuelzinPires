@@ -47,7 +47,7 @@ samuel = {
 
 ---
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 
 <table>
   <tr>

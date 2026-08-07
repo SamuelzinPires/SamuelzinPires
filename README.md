@@ -132,7 +132,7 @@ samuel = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 ETL Vagas Tech</h3>
+      <h3> ETL Vagas Tech</h3>
       <p>Pipeline de scraping (BeautifulSoup) para extração, limpeza e estruturação de vagas de tecnologia — a base de dados que hoje alimenta o CRUD API acima.</p>
       <a href="https://github.com/SamuelzinPires/etl-vagas-tech">
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -154,7 +154,7 @@ samuel = {
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img

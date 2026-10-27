@@ -1,189 +1,57 @@
-<!-- ============================================================
-     Samuel Pires — GitHub Profile README
-     Username: SamuelzinPires
-     ============================================================ -->
+<!-- Samuel Pires — GitHub Profile README (atualizado em 25/10/2026) -->
 
-<!-- HEADER BANNER — dark/light adaptive -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b55,100:1f6feb&height=200&section=header&text=Samuel%20Pires&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Cloud%20%7C%20Goiania%2C%20Brasil&descAlignY=58&descSize=15&descColor=8b949e&animation=fadeIn">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b55,100:1f6feb&height=180&section=header&text=Samuel%20Pires&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Engenheiro%20de%20Dados%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Airflow&descAlignY=60&descSize=15&descColor=8b949e">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:388bfd,100:58a6ff&height=200&section=header&text=Samuel%20Pires&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Cloud%20%7C%20Goiania%2C%20Brasil&descAlignY=58&descSize=15&descColor=dde3ea&animation=fadeIn">
-    <img
-      alt="Banner do perfil de Samuel Pires — Engenheiro de Dados Junior, localizado em Goiania, Brasil"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b55,100:1f6feb&height=200&section=header&text=Samuel%20Pires&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Data%20Engineer%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Cloud%20%7C%20Goiania%2C%20Brasil&descAlignY=58&descSize=15&descColor=8b949e&animation=fadeIn">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:388bfd,100:58a6ff&height=180&section=header&text=Samuel%20Pires&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Dados%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Airflow&descAlignY=60&descSize=15&descColor=dde3ea">
+    <img alt="Samuel Pires — Engenheiro de Dados Júnior"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2b55,100:1f6feb&height=180&section=header&text=Samuel%20Pires&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Engenheiro%20de%20Dados%20Jr.%20%7C%20Python%20%2B%20SQL%20%2B%20Airflow&descAlignY=60&descSize=15&descColor=8b949e">
   </picture>
 </p>
 
-<!-- CONTACT BADGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-pires-de-miranda-767255349/">
-    <img alt="LinkedIn de Samuel Pires" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img alt="Localizacao: Goiania, Brasil" src="https://img.shields.io/badge/Goiania-Brasil-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img alt="Status: aberto a oportunidades" src="https://img.shields.io/badge/Status-Aberto%20a%20Vagas.-238636?style=for-the-badge"/>
-  <img alt="Visualizacoes do perfil de SamuelzinPires" src="https://komarev.com/ghpvc/?username=SamuelzinPires&label=Profile+Views&color=1f6feb&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/samuel-pires-de-miranda-767255349/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samuelpires727@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-samuelpires727%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="Aberto a vagas de Engenharia de Dados Júnior" src="https://img.shields.io/badge/Aberto%20a%20vagas-Eng.%20de%20Dados%20Jr.-238636?style=for-the-badge"/>
 </p>
-
----
 
 ## Sobre mim
 
-Em transição para **Engenharia de Dados**, unindo experiência real de operação com Python, SQL e Cloud pra construir pipelines de dados robustos — do zero até produção.
+Engenheiro de dados júnior em transição de carreira, em Goiânia. Construo pipelines com **Python, SQL e Apache Airflow**, com atenção a qualidade de dado, idempotência e testes.
+Graduando em **Sistemas de Informação** (UniALFA). Aberto a vagas remotas ou híbridas.
 
-Cursando **Tecnólogo em Sistema da informação** (UniALFA) com foco total em dados.
+## Stack
 
-```python
-samuel = {
-    "foco_atual":   "Engenharia de Dados",
-    "stack":        ["Python", "SQL", "FastAPI", "SQLAlchemy", "Pandas", "Docker"],
-    "cloud":        ["AWS (S3, Lambda, IAM)", "Azure (DP-900 em preparação)"],
-    "graduacao":    "Tecnólogo em Sistema da informação - UniALFA (em andamento)",
-    "localizacao":  "Goiania, Brasil",
-    "aberto_para":  ["Vaga Jr. Engenheiro de Dados", "Remoto / Hibrido"]
-}
-```
+| Área | Ferramentas |
+|---|---|
+| Linguagens e dados | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) |
+| Orquestração e infra | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| Qualidade e testes | ![Pandera](https://img.shields.io/badge/Pandera-1f6feb?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
+| APIs e apps | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 
----
+## Projetos em destaque
 
-## Stack Técnica
+### [Pipeline ETL de Energia com Apache Airflow](https://github.com/SamuelzinPires/airflow-etl-orchestration_ONS)
+Pipeline orquestrado com **Airflow 3** sobre o balanço de energia do ONS: responde qual percentual da energia gerada no Brasil foi renovável, por dia e por subsistema. Validação com **Pandera**, carga **idempotente** em PostgreSQL (DELETE + INSERT por data, numa transação), retry testado com falha forçada, **backfill de ~280 dias** e testes com pytest rodando no **CI**.
+`Airflow 3` `PostgreSQL` `Pandera` `Docker Compose` `pytest` `GitHub Actions`
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Linguagem & Dados</b><br><br>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br>
-      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-    <td align="center" width="25%">
-      <b>Backend & APIs</b><br><br>
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br>
-      <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white"/><br>
-      <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/><br>
-      <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-    </td>
-    <td align="center" width="25%">
-      <b>Cloud & Infra</b><br><br>
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/><br>
-      <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/><br>
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    </td>
-    <td align="center" width="25%">
-      <b>Ferramentas</b><br><br>
-      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br>
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
-      <img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white"/><br>
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### [Data Quality Engineering](https://github.com/SamuelzinPires/data-quality-engineering)
+Qualidade de dados sobre **541 mil transações** reais (Online Retail): profiling com DuckDB e **6 regras** em Pandera (completude, faixa, formato e unicidade), com relatório de todas as violações encontradas.
+`DuckDB` `Pandera` `Pandas`
 
----
+### [CRUD API Data Application](https://github.com/SamuelzinPires/crud-api-data-app)
+API REST com **FastAPI** e PostgreSQL (5 endpoints), validação com Pydantic, testes com pytest e interface em Streamlit. Carrega as 643 vagas coletadas pelo ETL Vagas Tech.
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `pytest` `Docker`
 
-##  Projetos em Destaque
+### [SQL Advanced Analytics — Northwind](https://github.com/SamuelzinPires/northwind-sql-analytics)
+7 views de negócio em PostgreSQL com CTEs e Window Functions (LAG, NTILE, SUM OVER), em Docker.
+`PostgreSQL` `CTEs` `Window Functions`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> CRUD API Data Application</h3>
-      <p>API RESTful completa — FastAPI + PostgreSQL + SQLAlchemy, containerizada com Docker. CRUD completo, paginação, validação com Pydantic e frontend em Streamlit. Uso real: rastreia minhas próprias candidaturas a vaga.</p>
-      <a href="https://github.com/SamuelzinPires/crud-api-data-app">
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3> SQL Advanced Analytics — Northwind</h3>
-      <p>Analytics avançado sobre o banco Northwind: 7 VIEWs de negócio construídas com CTEs e Window Functions (RANK, LAG, SUM OVER PARTITION BY), rodando em PostgreSQL via Docker.</p>
-      <a href="https://github.com/SamuelzinPires/northwind-sql-analytics">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-CTEs%20%2B%20Window%20Fn-1f6feb?style=flat-square"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> Pipeline ELT AgroTech AWS</h3>
-      <p>Pipeline ELT serverless na AWS para dados do agronegócio brasileiro — arquitetura Medalhão (bronze/silver) em S3 com Parquet, processamento via Lambda + boto3.</p>
-      <a href="https://github.com/SamuelzinPires/Projeto-agro-elt-pipeline-aws">
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
-        <img alt="Lambda" src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-        <img alt="Parquet" src="https://img.shields.io/badge/Parquet-1f6feb?style=flat-square&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3> Data Project Foundations</h3>
-      <p>Base profissional para projetos de dados: pipeline ETL com Poetry para dependências, testes automatizados com pytest e esteira de CI/CD via GitHub Actions.</p>
-      <a href="https://github.com/SamuelzinPires/data-project-foundations">
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-        <img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> ETL Vagas Tech</h3>
-      <p>Pipeline de scraping (BeautifulSoup) para extração, limpeza e estruturação de vagas de tecnologia — a base de dados que hoje alimenta o CRUD API acima.</p>
-      <a href="https://github.com/SamuelzinPires/etl-vagas-tech">
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3> FinOps Pessoal</h3>
-      <p>Sistema de ETL para finanças pessoais com dashboard interativo em Streamlit e persistência em PostgreSQL via SQLAlchemy — meu primeiro projeto de dados ponta a ponta.</p>
-      <a href="https://github.com/SamuelzinPires/finops-data-engineering">
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**Outros:** [Data Project Foundations](https://github.com/SamuelzinPires/data-project-foundations) (pytest + Poetry + CI) · [ETL Vagas Tech](https://github.com/SamuelzinPires/etl-vagas-tech) (API JSON paginada → SQLite) · [FinOps Pessoal](https://github.com/SamuelzinPires/finops-data-engineering) (ETL + Streamlit) · [Pipeline ELT AgroTech](https://github.com/SamuelzinPires/Projeto-agro-elt-pipeline-aws) (camadas bronze/prata/ouro em Parquet)
 
----
+## Agora
 
-##  Estatísticas do GitHub
-
-<p align="center">
-  <img
-    alt="Sequencia de contribuicoes de Samuel Pires ao longo do tempo"
-    src="https://streak-stats.demolab.com?user=SamuelzinPires&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff"/>
-</p>
-
-<p align="center">
-  <img alt="Troféus do GitHub de Samuel Pires" src="https://github-profile-trophy.vercel.app/?username=SamuelzinPires&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
-
----
-
-##  Em construção agora
-
--  Certificação **Microsoft Azure DP-900** — módulo 2 aprovado, módulos 3 e 4 em andamento, exame previsto pra agosto/2026
--  Próximo projeto: **Data Quality Engineering** (DuckDB + Pandera) — agosto/2026
--  Buscando ativamente vaga de **Engenheiro de Dados Júnior** — remoto ou híbrido
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:0d2b55,100:0d1117&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,40:388bfd,100:1f6feb&height=100&section=footer">
-    <img alt="Footer decorativo do perfil de Samuel Pires"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:0d2b55,100:0d1117&height=100&section=footer">
-  </picture>
-</p>
+- Próximo projeto (nov/2026): pipeline com a API do Mercado Livre e dbt.
+- Montando meu **portfólio** (Astro). O link entra aqui quando a primeira versão estiver no ar.
